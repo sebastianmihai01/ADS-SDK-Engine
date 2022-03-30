@@ -13,6 +13,7 @@ npm install ads-engine // not yet added
 ## Usage
 
 ```javascript
+/** eslint-ignore */
 require('dotenv').config()
 import * as ads from 'ads-engine' //es6
 const ads = require('ads-engine') //es5
