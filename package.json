@@ -1,0 +1,22 @@
+{
+  "name": "ads-sdk-engine",
+  "version": "1.0.0",
+  "description": "Anomaly Detection System for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastianmihai01/ADS-SDK-Engine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastianmihai01/ADS-SDK-Engine/issues"
+  },
+  "homepage": "https://github.com/sebastianmihai01/ADS-SDK-Engine#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
